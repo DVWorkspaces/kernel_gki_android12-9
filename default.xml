@@ -13,7 +13,7 @@
     <project path="hikey-modules" name="kernel/hikey-modules" revision="6f0a2a72f849d8bb8e708587582c20019ef91a3c" upstream="android12-5.10" dest-branch="android12-5.10"/>
 
     <!-- DV -->
-    <project path="common" name="android_kernel_gki-android12-9" remote="gh" revision="main" />
+    <project path="common" name="android_kernel_gki-android12-9" remote="gh" revision="nethunter" />
 
     <project path="kernel/tests" name="kernel/tests" revision="c2ea6143e8f1efb9a68cca88159210e16cde1bac"/>
     <project path="kernel/configs" name="kernel/configs" revision="c10b7ea022edc356d37c092d7ca46bcb860f8a90"/>

@@ -10,7 +10,7 @@
 ##### Sync #####
 ##### Initialize local repository #####
 ```bash
-repo init -u https://github.com/DVWorkspaces/kernel_gki_android12-9 -b main
+repo init -u https://github.com/DVWorkspaces/kernel_gki_android12-9 -b nethunter
 ```
 
 ##### Sync #####
